@@ -3,10 +3,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="75%" src="https://github-readme-stats.vercel.app/api?username=bleachjade&hide=stars&include_all_commits=true&show_icons=true&theme=solarized-light" />
+  <img align="center" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=bleachjade&hide=stars&include_all_commits=true&show_icons=true&theme=solarized-light" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleachjade&langs_count=8&layout=compact&theme=solarized-light" />
+  <img align="center" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleachjade&langs_count=8&layout=compact&theme=solarized-light" />
 </a>
 
 ### 📫 Connect with me! 

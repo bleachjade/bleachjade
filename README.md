@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bleachjade&hide=stars&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bleachjade/bleachjade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,10 +3,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="auto" height="100%" src="https://github-readme-stats.vercel.app/api?username=bleachjade&hide=stars&include_all_commits=true&show_icons=true&theme=solarized-light" />
+  <img align="center" width="auto" height="100%" src="https://github-readme-stats.vercel.app/api?username=bleachjade&hide=stars&include_all_commits=true&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleachjade&langs_count=8&layout=compact&theme=solarized-light" />
+  <img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleachjade&langs_count=8&layout=compact&theme=buefy" />
 </a>
 
 ### 📫 Connect with me! 
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://bleachjade.github.io.com
+[website]: https://bleachjade.github.io/
 [instagram]: https://instagram.com/jadenttp
 [e-mail]: mailto:%20nattapol.boo@ku.th

@@ -8,12 +8,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleachjade&langs_count=8&layout=compact&theme=solarized-light" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bleachjade&repo=BetterTogether&show_owner=true&theme=solarized-light" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bleachjade&repo=angular-learning&show_owner=true&theme=solarized-light" />
-</a>
 <!--
 **bleachjade/bleachjade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://bleachjade.github.io/
+[website]: https://jadenttp.pythonanywhere.com
 [instagram]: https://instagram.com/jadenttp
 [e-mail]: mailto:%20nattapol.boo@ku.th
